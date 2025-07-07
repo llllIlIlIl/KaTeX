@@ -109,8 +109,20 @@
 }
 @font-face {
   font-family: "KaTeX_Size1";
+  src: url(fonts/KaTeX_Size1-Thin.woff2) format("woff2"), url(fonts/KaTeX_Size1-Thin.woff) format("woff"), url(fonts/KaTeX_Size1-Thin.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "KaTeX_Size1";
   src: url(fonts/KaTeX_Size1-Regular.woff2) format("woff2"), url(fonts/KaTeX_Size1-Regular.woff) format("woff"), url(fonts/KaTeX_Size1-Regular.ttf) format("truetype");
   font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "KaTeX_Size2";
+  src: url(fonts/KaTeX_Size2-Thin.woff2) format("woff2"), url(fonts/KaTeX_Size2-Thin.woff) format("woff"), url(fonts/KaTeX_Size2-Thin.ttf) format("truetype");
+  font-weight: 300;
   font-style: normal;
 }
 @font-face {
@@ -121,8 +133,20 @@
 }
 @font-face {
   font-family: "KaTeX_Size3";
+  src: url(fonts/KaTeX_Size3-Thin.woff2) format("woff2"), url(fonts/KaTeX_Size3-Thin.woff) format("woff"), url(fonts/KaTeX_Size3-Thin.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "KaTeX_Size3";
   src: url(fonts/KaTeX_Size3-Regular.woff2) format("woff2"), url(fonts/KaTeX_Size3-Regular.woff) format("woff"), url(fonts/KaTeX_Size3-Regular.ttf) format("truetype");
   font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "KaTeX_Size4";
+  src: url(fonts/KaTeX_Size4-Thin.woff2) format("woff2"), url(fonts/KaTeX_Size4-Thin.woff) format("woff"), url(fonts/KaTeX_Size4-Thin.ttf) format("truetype");
+  font-weight: 300;
   font-style: normal;
 }
 @font-face {
